@@ -22,4 +22,3 @@ if (number >= 10000) {
     Console.WriteLine(number);
     Console.WriteLine(a);
 }
-// 10076
